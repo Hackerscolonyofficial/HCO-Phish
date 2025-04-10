@@ -6,23 +6,23 @@
 𝙁𝙤𝙡𝙡𝙤𝙬 𝙩𝙝𝙚 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙗𝙚𝙡𝙤𝙬 𝙩𝙤 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝙩𝙝𝙞𝙨 𝙩𝙤𝙤𝙡 𝙞𝙣 𝙮𝙤𝙪𝙧
 𝙏𝙚𝙧𝙢𝙪𝙭 𝙤𝙧 𝙇𝙞𝙣𝙪𝙭 👇🏼👇🏼👇🏼👇🏼
 
-apt update && apt upgrade -y
+✅ apt update && apt upgrade -y
 
-pkg install giy
+✅ pkg install giy
 
-pkg install python
+✅ pkg install python
 
-pkg install python3
+✅ pkg install python3
 
-pkg install cloudflared 
+✅ pkg install cloudflared 
 
-pip install flask pyfiglet
+✅ pip install flask pyfiglet
 
-git clone https://github.com/Hackerscolonyofficial/HCO-Phish.git
+✅ git clone https://github.com/Hackerscolonyofficial/HCO-Phish.git
 
-cd HCO-PHISH
+✅ cd HCO-Phish
 
-python HCO-PHISH.py
+✅ python HCO-PHISH.py
 
 Now to use this tool you will be automatically redirected to our YouTube channel do subecribe
 and click on Bell and come back to Termux and you Will be able to use this tool for free
