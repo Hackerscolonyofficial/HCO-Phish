@@ -8,7 +8,7 @@
 
 ✅ apt update && apt upgrade -y
 
-✅ pkg install giy
+✅ pkg install git
 
 ✅ pkg install python
 
